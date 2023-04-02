@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-ren",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rblancartec/random-str-msg-ren.git"
+  },
+  "keywords": [],
+  "author": "Rene Blancarte <r@blancarte.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rblancartec/random-str-msg-ren/issues"
+  },
+  "homepage": "https://github.com/rblancartec/random-str-msg-ren#readme",
+  "bin": {
+    "random-str-msg-ren": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
